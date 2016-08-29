@@ -1,0 +1,15 @@
+{
+  "name": "nodedb",
+  "version": "1.0.0",
+  "description": "Db connector for node applications",
+  "main": "index.js",
+  "author": "GDP NodeDB",
+  "license": "ISC",
+  "dependencies": {
+    "deferred": "^0.7.5",
+    "mongoose": "^4.5.10",
+    "promise": "^7.1.1",
+    "isodate": "^0.1.4",
+    "moment": "^2.10.6"
+  }
+}
